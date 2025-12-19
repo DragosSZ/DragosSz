@@ -1,4 +1,3 @@
-![Profile Header](header.PNG)
 # Hi there, I'm Dragos! 👋
 
 ### 🎓 Automation & Applied Informatics Student | 🛠️ Embedded Systems Engineer | 💻 Full-Stack Developer
