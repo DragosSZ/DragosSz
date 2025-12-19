@@ -48,7 +48,7 @@ A comprehensive fitness tracking platform inspired by MyFitnessPal, designed to 
 * **Frontend:** Created a responsive UI with **React (Vite)** and **Tailwind CSS**.
 * **Key Features:** Workout Builder, Meal Planner, and dynamic Progress Dashboard.
 
-### 🅿️ [Automated Parking System](https://github.com/dariustoasca/Parking-Management)
+### 🅿️ [Automated Parking System](https://github.com/DragosSZ/Parking-Management)
 **Role:** Hardware Implementation & Systems Integration
 
 A smart parking solution that integrates physical hardware sensors with a mobile application for real-time spot management.
