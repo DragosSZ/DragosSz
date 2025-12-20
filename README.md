@@ -82,5 +82,3 @@ A smart parking solution that integrates physical hardware sensors with a mobile
 
 * **LinkedIn:** [linkedin.com/in/szilagyidragos](https://linkedin.com/in/szilagyidragos)
 * **Email:** [dragos.szilagyi@icloud.com](mailto:dragos.szilagyi@icloud.com)
-
-![Dragos's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragosSZ&show_icons=true&theme=radical)
